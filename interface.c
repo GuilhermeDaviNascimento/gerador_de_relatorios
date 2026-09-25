@@ -30,9 +30,13 @@ int menu_principal(void) {
     printf("==============================================\n");
     printf(" 1 - Relatorio de Usuarios e Assinaturas\n");
     printf(" 2 - Catalogo de Midias\n");
-    printf(" 3 - Consumo de Midias por Usuario\n");
-    printf(" 4 - Faturamento por Metodo de Pagamento\n");
-    printf(" 5 - Sair\n");
+    printf(" 3 - Catalogo de Séries\n");
+    printf(" 4 - Catalogo de Filmes\n");
+    printf(" 5 - Consumo de Midias por Usuario\n");
+    printf(" 6 - Consumo de Séries por Usuario\n");
+    printf(" 7 - Consumo de Filmes por Usuario\n");
+    printf(" 8 - Faturamento por Metodo de Pagamento\n");
+    printf(" 9 - Sair\n");
     printf("==============================================\n");
 
     return ler_inteiro("Escolha uma opcao: ");
