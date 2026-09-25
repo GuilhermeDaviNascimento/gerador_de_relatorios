@@ -1,7 +1,6 @@
 #ifndef ESTRUTURAS_H
 #define ESTRUTURAS_H
 
-// ===== ASSINATURA =====
 typedef struct Assinatura {
     int id;
     float valor;
@@ -11,17 +10,15 @@ typedef struct Assinatura {
     struct Assinatura *prox;
 } Assinatura;
 
-// ===== USUARIO =====
 typedef struct Usuario {
     int id;
     char nome[100];
     char email[100];
     char cpf[20];
-    int id_assinatura;      // FK -> Assinatura (relacionamento "Possui")
+    int id_assinatura;      /* FK  */
     struct Usuario *prox;
 } Usuario;
 
-// ===== MIDIA =====
 typedef struct Midia {
     int id;
     char nome[100];
@@ -30,30 +27,27 @@ typedef struct Midia {
     int duracao;
     char data_lancamento[20];
     float avaliacao_critica;
-    char tipo;               // 'F' = Filme, 'S' = Serie
+    char tipo;
     struct Midia *prox;
 } Midia;
 
-// ===== FILME (especialização de Midia) =====
 typedef struct Filme {
-    int id_midia;             // FK -> Midia
+    int id_midia;             /* FK  */
     float bilheteria;
     struct Filme *prox;
 } Filme;
 
-// ===== SERIE (especialização de Midia) =====
 typedef struct Serie {
-    int id_midia;              // FK -> Midia
+    int id_midia;              /* FK  */
     int numero_episodios;
     int numero_temporadas;
     struct Serie *prox;
 } Serie;
 
-// ===== MIDIAS CONSUMIDAS (relacionamento "Consome", com atributos) =====
 typedef struct MidiaConsumida {
-    int id_usuario;      // FK -> Usuario
-    int id_midia;         // FK -> Midia
-    int favorito;          // 0 = não, 1 = sim
+    int id_usuario;      /* FK  */
+    int id_midia;         /* FK  */
+    int favorito;
     float avaliacao_usuario;
     struct MidiaConsumida *prox;
 } MidiaConsumida;

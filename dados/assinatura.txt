@@ -1,0 +1,5 @@
+1;39.90;Cartao de Credito;05/10/2026;Premium
+2;29.90;Pix;12/10/2026;Padrao
+3;19.90;Boleto;20/10/2026;Basico
+4;39.90;Cartao de Credito;01/11/2026;Premium
+5;29.90;Cartao de Debito;15/11/2026;Padrao

@@ -1,1 +1,0 @@
-ID_Usuario<tab>ID_Midia<tab>Favorito<tab>AvaliacaoUsuario
