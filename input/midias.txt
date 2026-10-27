@@ -1,0 +1,5 @@
+101;Inception;Ficcao Cientifica;Christopher Nolan;148;16/07/2010;8.8;F
+102;Stranger Things;Terror;Irmaos Duffer;50;15/07/2016;8.7;S
+103;The Dark Knight;Acao;Christopher Nolan;152;18/07/2008;9.0;F
+104;Breaking Bad;Drama;Vince Gilligan;49;20/01/2008;9.5;S
+105;Interstellar;Ficcao Cientifica;Christopher Nolan;169;07/11/2014;8.6;F

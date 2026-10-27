@@ -1,0 +1,4 @@
+1;39.90;Cartao de Credito;15/11/2026;Premium
+2;21.90;PIX;10/10/2026;Basico
+3;55.90;Boleto;05/12/2026;Familia
+4;39.90;Cartao de Credito;20/11/2026;Premium

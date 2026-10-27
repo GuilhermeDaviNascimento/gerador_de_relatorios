@@ -1,0 +1,18 @@
++---------------------------------------------------------+
+| RELATORIO DE CONSUMO DE SERIES POR USUARIO              |
+| Gerado em 28/09/2026 13:49                              |
++---------------------------------------------------------+
+
++----------------+-----------------+----------+-----------+
+| Usuario        | Serie           | Favorito | Avaliacao |
++----------------+-----------------+----------+-----------+
+| Ana Silva      | Breaking Bad    | Sim      |      10,0 |
+| Carlos Eduardo | Stranger Things | Nao      |       7,5 |
+| Mariana Costa  | Breaking Bad    | Sim      |       9,5 |
+| Roberto Alves  | Stranger Things | Sim      |       8,5 |
+| Roberto Alves  | Breaking Bad    | Nao      |       7,0 |
++----------------+-----------------+----------+-----------+
+
++---------------------------------------------------------+
+| Total de registros: 5                                   |
++---------------------------------------------------------+

@@ -1,0 +1,23 @@
++---------------------------------------------------------+
+| RELATORIO DE CONSUMO DE MIDIA POR USUARIO               |
+| Gerado em 28/09/2026 13:49                              |
++---------------------------------------------------------+
+
++----------------+-----------------+----------+-----------+
+| Usuario        | Midia           | Favorito | Avaliacao |
++----------------+-----------------+----------+-----------+
+| Ana Silva      | Inception       | Sim      |       9,0 |
+| Ana Silva      | Breaking Bad    | Sim      |      10,0 |
+| Carlos Eduardo | Stranger Things | Nao      |       7,5 |
+| Carlos Eduardo | The Dark Knight | Sim      |       9,5 |
+| Mariana Costa  | Inception       | Nao      |       8,0 |
+| Mariana Costa  | Interstellar    | Sim      |       9,0 |
+| Mariana Costa  | Breaking Bad    | Sim      |       9,5 |
+| Roberto Alves  | Stranger Things | Sim      |       8,5 |
+| Roberto Alves  | Breaking Bad    | Nao      |       7,0 |
+| Roberto Alves  | Interstellar    | Nao      |       6,5 |
++----------------+-----------------+----------+-----------+
+
++---------------------------------------------------------+
+| Total de registros: 10                                  |
++---------------------------------------------------------+

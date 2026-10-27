@@ -1,0 +1,5 @@
+1;Ana Silva;ana.silva@email.com;123.456.789-00;1
+2;Carlos Eduardo;carlos.edu@email.com;234.567.890-11;2
+3;Mariana Costa;mariana.costa@email.com;345.678.901-22;4
+4;Roberto Alves;roberto.alves@email.com;456.789.012-33;3
+5;Fernanda Lima;fernanda.lima@email.com;567.890.123-44;0
